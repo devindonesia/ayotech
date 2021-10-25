@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64="58DRK18906002324"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2021/05/27 14.00.00.000.421,D:\Work\2021\G7\Mobile\PhotoEditorDemo.dproj=D:\Work\2021\G7\Mobile\AyoScan.dproj</Transaction>
+    <Transaction>2021/05/27 14.00.00.000.817,C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Media\PhotoEditorDemo\MainFrm.fmx=D:\Work\2021\G7\Mobile\MainFrm.fmx</Transaction>
+    <Transaction>2021/05/27 14.00.00.000.330,C:\Users\Public\Documents\Embarcadero\Studio\20.0\Samples\Object Pascal\Multi-Device Samples\Media\PhotoEditorDemo\PhotoEditorDemo.dproj=D:\Work\2021\G7\Mobile\PhotoEditorDemo.dproj</Transaction>
+    <Transaction>2021/05/27 16.00.00.000.134,D:\Work\2021\G7\Mobile\Unit1.fmx=D:\Work\2021\G7\Mobile\AD060C626.fmx</Transaction>
+    <Transaction>2021/05/28 20.00.00.000.914,D:\Work\2021\G7\Mobile\Unit1.pas=D:\Work\2021\G7\Mobile\Lib\Network.pas</Transaction>
+    <Transaction>2021/05/28 20.00.00.000.333,=D:\Work\2021\G7\Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/05/29 17.00.00.000.406,D:\Work\2021\G7\AyoTech\Program\AyoScan.dproj=D:\Work\2021\G7\AyoTech\Program\Ayotech.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
